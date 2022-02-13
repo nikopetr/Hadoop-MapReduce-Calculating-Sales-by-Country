@@ -13,7 +13,7 @@ The implementation consists of a Java program that utilizes the Hadoop Map-Reduc
 Specifically this task focuses on finding the number of products and the sum of sales per country given the input file [SalesJan2009.csv](https://www.cs.ucy.ac.cy/courses/DSC511/data/SalesJan2009.csv)
 
 <p align="center">
-  <img src="https://github.com/nikopetr/Hadoop-MapReduce-Calculating-Sales-by-Country/blob/main/example_country_sales.png" width="800" height="450"/>
+  <img src="https://github.com/nikopetr/Hadoop-MapReduce-Calculating-Sales-by-Country/blob/main/example_country_sales.png" width="750" height="350"/>
 </p>
 
 You can download & upload the aforementioned UNIX dictionary file to your own HDFS filesystem using the following commands:
